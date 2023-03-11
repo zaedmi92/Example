@@ -1,0 +1,2 @@
+id,title,type,description,more,url,attributions,images,lat,lon
+unique_id,text,text,text,text,(comma-separated-urls),(comma-separated-texts),(comma-separated-image-urls),number,number
