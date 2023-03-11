@@ -28,9 +28,7 @@
                     "lon": "-88.1366172894991",
                     "type": "Information",
                     "name": "Library",
-                    "images": [
-                        "https://github.com/zaedmi92/Example/raw/main/docs/sample/images/Dining%20Room%20Front.jpg"
-                    ],
+                    "images": ["https://github.com/zaedmi92/Example/raw/main/docs/sample/images/Dining%20Room%20Front.jpg"],
                     "description": "Burke Memorial Library",
                     "more": "Library Hours Mon-Fri 8-5",
                     "urls": [
